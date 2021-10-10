@@ -23,7 +23,7 @@ email: monkeymind@troysk.com
 description: >- # this means to ignore newlines until "baseurl:"
   Experiments and thoughts of the monkey mind.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://monkeymind.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://monkeymind.troysk.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: troysk704
 github_username:  troysk
 
