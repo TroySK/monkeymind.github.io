@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Growth"
+date:   2021-10-28 14:27:11 +0530
+categories: growth, engineering, sales
+---
+
+I have been lucky to work at companies of all sizes. Single person to 1000s of employees. I have worked with public listed companies, VC backed startups as well as bootstrapped companies. Of all the different types of companies, I have found bootstrapped companies to be the least ambitious and most unstructured in product development/growth.
+
+Large corporate entities have the luxury of public markets and investors to keep them in check. They also have large dedicated teams which work primarily on growth metrics. The teams are mostly lacking in progress due to inefficiencies added because of corporate structure/layers. However, in engineering, there is always the demand to innovate and grow.
+
+VC backed startups are similar to public companies but the pressure seems higher as VCs have a shorter time frame to get their money out. I have found these companies to be the best for innovation and growth. It is the demand for growth that makes my mundane job of writing code exciting as I have to find better ways to sell to the customer.
+
+Bootstrapped companies aren't hungry enough for growth. Having worked primarily with bootstrapped companies for the last few years, I have concluded that maybe bootstrapped companies aren't even concerned about growth and are more focused on their art. Bootstrapped companies don't even own 1% of the market share in the industries they are in but because they are profitable and have a good employee-to-revenue ratio they think they are doing great. I find that unfulfilling because as an engineer focusing on growth, I want to own the market and be the dominant player. Once bootstrapped companies reach a $1M/employee revenue milestone, they seem to start slacking off. I believe everyone in a startup should be thinking about growth and try and incorporate it into their product. If one cares about their product, one must do everything to help to get to the hands of everyone.
+
+I may be completely wrong in my observation but this is what I believe at present. I do not think not chasing growth is wrong, it is perfectly fine for companies to grow at their own pace or run with peace rather than pace but I find myself uncomfortable in such situations. I want my work to have some impact and growth is how to increase it.
